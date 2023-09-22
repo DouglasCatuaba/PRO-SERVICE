@@ -1,6 +1,6 @@
-# wpe_apresentacao
+# PRO-SERVICE
 
-A new Flutter project.
+Projeto criado para unir os prestadores de serviço dos clientes que prescisam dos mesmos
 
 ## Getting Started
 
